@@ -66,7 +66,7 @@ public class atm {
 		}
 		else {
 			System.out.println("Invalid Pin");
-			System.out.println("THankYou!!!");
+			System.out.println("Please Try Again!!!");
 		}
 		s.close();
 	}
